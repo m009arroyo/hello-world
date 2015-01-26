@@ -1,1 +1,3 @@
-Hello World is a program created to test Git
+Line1
+Line2 
+Line3
